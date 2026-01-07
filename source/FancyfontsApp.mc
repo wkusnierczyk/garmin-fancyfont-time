@@ -2,7 +2,7 @@ using Toybox.Application;
 using Toybox.WatchUi;
 
 
-class TimeApp extends Application.AppBase {
+class FancyfontsApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
