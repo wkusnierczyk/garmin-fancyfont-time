@@ -1,0 +1,34 @@
+info face="YuseiMagic-Regular.ttf" size=49 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=71 base=57 scaleW=1107 scaleH=71 pages=1 packed=0
+page id=0 file="YuseiMagic-Regular-49.png"
+chars count=30
+char id=69 x=0 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=70 x=37 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=78 x=74 y=0 width=32 height=71 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=79 x=116 y=0 width=33 height=71 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=83 x=159 y=0 width=29 height=71 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=84 x=198 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=101 x=235 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=103 x=273 y=0 width=29 height=71 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=104 x=312 y=0 width=29 height=71 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=105 x=351 y=0 width=16 height=71 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=15
+char id=108 x=377 y=0 width=15 height=71 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=110 x=402 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=111 x=440 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=114 x=477 y=0 width=23 height=71 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=116 x=510 y=0 width=22 height=71 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=117 x=542 y=0 width=29 height=71 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=118 x=581 y=0 width=25 height=71 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=119 x=616 y=0 width=38 height=71 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=120 x=664 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=32 x=702 y=0 width=19 height=71 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=48 x=731 y=0 width=30 height=71 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=49 x=771 y=0 width=20 height=71 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=50 x=801 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=51 x=838 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=52 x=876 y=0 width=30 height=71 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=53 x=916 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=54 x=953 y=0 width=29 height=71 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=55 x=992 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=56 x=1030 y=0 width=30 height=71 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=57 x=1070 y=0 width=27 height=71 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15

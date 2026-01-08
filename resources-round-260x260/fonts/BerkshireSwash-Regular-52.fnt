@@ -1,0 +1,34 @@
+info face="BerkshireSwash-Regular.ttf" size=52 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=65 base=51 scaleW=1100 scaleH=65 pages=1 packed=0
+page id=0 file="BerkshireSwash-Regular-52.png"
+chars count=30
+char id=69 x=0 y=0 width=36 height=65 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=70 x=46 y=0 width=33 height=65 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=78 x=89 y=0 width=43 height=65 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=79 x=142 y=0 width=38 height=65 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=83 x=190 y=0 width=27 height=65 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=84 x=227 y=0 width=31 height=65 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=101 x=268 y=0 width=25 height=65 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=103 x=303 y=0 width=27 height=65 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=104 x=340 y=0 width=28 height=65 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=105 x=378 y=0 width=15 height=65 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=108 x=403 y=0 width=15 height=65 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=110 x=428 y=0 width=28 height=65 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=111 x=466 y=0 width=27 height=65 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=114 x=503 y=0 width=21 height=65 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=116 x=534 y=0 width=18 height=65 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=117 x=562 y=0 width=29 height=65 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=118 x=601 y=0 width=25 height=65 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=119 x=636 y=0 width=40 height=65 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=120 x=686 y=0 width=26 height=65 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=32 x=722 y=0 width=12 height=65 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=48 x=744 y=0 width=30 height=65 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=49 x=784 y=0 width=18 height=65 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=50 x=812 y=0 width=24 height=65 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=51 x=846 y=0 width=24 height=65 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=52 x=880 y=0 width=28 height=65 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=53 x=918 y=0 width=25 height=65 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=54 x=953 y=0 width=28 height=65 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=55 x=991 y=0 width=24 height=65 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=56 x=1025 y=0 width=27 height=65 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=57 x=1062 y=0 width=28 height=65 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15

@@ -1,0 +1,34 @@
+info face="UnifrakturMaguntia-Regular.ttf" size=53 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=55 base=42 scaleW=1096 scaleH=55 pages=1 packed=0
+page id=0 file="UnifrakturMaguntia-Regular-53.png"
+chars count=30
+char id=69 x=0 y=0 width=38 height=55 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=70 x=48 y=0 width=41 height=55 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=78 x=99 y=0 width=47 height=55 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=79 x=156 y=0 width=40 height=55 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=83 x=206 y=0 width=41 height=55 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=84 x=257 y=0 width=40 height=55 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=101 x=307 y=0 width=20 height=55 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=103 x=337 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=104 x=372 y=0 width=24 height=55 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=105 x=406 y=0 width=15 height=55 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=108 x=431 y=0 width=15 height=55 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=110 x=456 y=0 width=27 height=55 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=111 x=493 y=0 width=22 height=55 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=114 x=525 y=0 width=20 height=55 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=116 x=555 y=0 width=17 height=55 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=117 x=582 y=0 width=27 height=55 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=118 x=619 y=0 width=24 height=55 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=119 x=653 y=0 width=37 height=55 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=120 x=700 y=0 width=21 height=55 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=32 x=731 y=0 width=16 height=55 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=15
+char id=48 x=757 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=49 x=792 y=0 width=17 height=55 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=50 x=819 y=0 width=24 height=55 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=51 x=853 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=52 x=888 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=53 x=923 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=54 x=958 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=55 x=993 y=0 width=23 height=55 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=56 x=1026 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=57 x=1061 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15

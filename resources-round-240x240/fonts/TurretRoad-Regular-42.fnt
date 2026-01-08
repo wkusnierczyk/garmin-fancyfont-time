@@ -1,0 +1,34 @@
+info face="TurretRoad-Regular.ttf" size=42 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=46 base=36 scaleW=993 scaleH=46 pages=1 packed=0
+page id=0 file="TurretRoad-Regular-42.png"
+chars count=30
+char id=69 x=0 y=0 width=23 height=46 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=70 x=33 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=78 x=65 y=0 width=29 height=46 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=79 x=104 y=0 width=30 height=46 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=83 x=144 y=0 width=29 height=46 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=84 x=183 y=0 width=27 height=46 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=101 x=220 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=103 x=254 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=104 x=288 y=0 width=23 height=46 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=105 x=321 y=0 width=7 height=46 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=15
+char id=108 x=338 y=0 width=13 height=46 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=110 x=361 y=0 width=23 height=46 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=111 x=394 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=114 x=428 y=0 width=19 height=46 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=116 x=457 y=0 width=17 height=46 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=117 x=484 y=0 width=23 height=46 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=118 x=517 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=119 x=549 y=0 width=33 height=46 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=120 x=592 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=32 x=624 y=0 width=17 height=46 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=48 x=651 y=0 width=28 height=46 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=49 x=689 y=0 width=14 height=46 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
+char id=50 x=713 y=0 width=28 height=46 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=51 x=751 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=52 x=785 y=0 width=23 height=46 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=53 x=818 y=0 width=28 height=46 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=54 x=856 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=55 x=890 y=0 width=25 height=46 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=56 x=925 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=57 x=959 y=0 width=24 height=46 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15

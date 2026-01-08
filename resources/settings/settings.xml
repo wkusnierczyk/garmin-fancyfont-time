@@ -1,14 +1,44 @@
 <settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
 
-    <setting propertyKey="@Properties.ShowStandardTime" title="@Strings.StandardTimeMenuTitle">
-        <settingConfig type="boolean" />
-    </setting>
-
-    <setting propertyKey="@Properties.MultiOptionProperty" title="@Strings.MultiOptionMenuTitle">
+    <setting propertyKey="@Properties.Font" title="@Strings.FontMenuTitle">
         <settingConfig type="list">
-            <listEntry value="1">@Strings.Option1</listEntry>
-            <listEntry value="2">@Strings.Option2</listEntry>
-            <listEntry value="3">@Strings.Option3</listEntry>
+            <listEntry value="0">@Strings.Acme</listEntry>
+            <listEntry value="1">@Strings.Amaranth</listEntry>
+            <listEntry value="2">@Strings.AmaticSC</listEntry>
+            <listEntry value="3">@Strings.Asimovian</listEntry>
+            <listEntry value="4">@Strings.BerkshireSwash</listEntry>
+            <listEntry value="5">@Strings.CaveatBrush</listEntry>
+            <listEntry value="6">@Strings.Changa</listEntry>
+            <listEntry value="7">@Strings.CormorantUnicase</listEntry>
+            <listEntry value="8">@Strings.CroissantOne</listEntry>
+            <listEntry value="9">@Strings.Delius</listEntry>
+            <listEntry value="10">@Strings.DynaPuff</listEntry>
+            <listEntry value="11">@Strings.EpundaSlab</listEntry>
+            <listEntry value="12">@Strings.Fondamento</listEntry>
+            <listEntry value="13">@Strings.GloriaHallelujah</listEntry>
+            <listEntry value="14">@Strings.GrenzeGotisch</listEntry>
+            <listEntry value="15">@Strings.Handlee</listEntry>
+            <listEntry value="16">@Strings.Italiana</listEntry>
+            <listEntry value="17">@Strings.Jura</listEntry>
+            <listEntry value="18">@Strings.Limelight</listEntry>
+            <listEntry value="19">@Strings.LobsterTwo</listEntry>
+            <listEntry value="20">@Strings.LoveYaLikeASister</listEntry>
+            <listEntry value="21">@Strings.Macondo</listEntry>
+            <listEntry value="22">@Strings.Megrim</listEntry>
+            <listEntry value="23">@Strings.Merienda</listEntry>
+            <listEntry value="24">@Strings.Philosopher</listEntry>
+            <listEntry value="25">@Strings.PoetsenOne</listEntry>
+            <listEntry value="26">@Strings.Quintessential</listEntry>
+            <listEntry value="27">@Strings.RammettoOne</listEntry>
+            <listEntry value="28">@Strings.Sniglet</listEntry>
+            <listEntry value="29">@Strings.SpecialElite</listEntry>
+            <listEntry value="30">@Strings.StackSansNotch</listEntry>
+            <listEntry value="31">@Strings.SUSE</listEntry>
+            <listEntry value="32">@Strings.TenorSans</listEntry>
+            <listEntry value="33">@Strings.TurretRoad</listEntry>
+            <listEntry value="34">@Strings.UnicaOne</listEntry>
+            <listEntry value="35">@Strings.UnifrakturMaguntia</listEntry>
+            <listEntry value="36">@Strings.YuseiMagic</listEntry>
         </settingConfig>
     </setting>
 
