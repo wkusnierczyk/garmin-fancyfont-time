@@ -1,15 +1,34 @@
 info face="Changa-Regular.ttf" size=43 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=80 base=53 scaleW=356 scaleH=80 pages=1 packed=0
+common lineHeight=80 base=53 scaleW=964 scaleH=80 pages=1 packed=0
 page id=0 file="Changa-Regular-43.png"
-chars count=11
-char id=48 x=0 y=0 width=27 height=80 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
-char id=49 x=37 y=0 width=19 height=80 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
-char id=50 x=66 y=0 width=24 height=80 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
-char id=51 x=100 y=0 width=22 height=80 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=52 x=132 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=53 x=167 y=0 width=23 height=80 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
-char id=54 x=200 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=55 x=235 y=0 width=21 height=80 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
-char id=56 x=266 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=57 x=301 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=58 x=336 y=0 width=10 height=80 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=23 height=80 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=70 x=33 y=0 width=20 height=80 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=78 x=63 y=0 width=29 height=80 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=79 x=102 y=0 width=28 height=80 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=83 x=140 y=0 width=23 height=80 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=84 x=173 y=0 width=20 height=80 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=101 x=203 y=0 width=24 height=80 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=103 x=237 y=0 width=22 height=80 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=104 x=269 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=105 x=304 y=0 width=13 height=80 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=108 x=327 y=0 width=12 height=80 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+char id=110 x=349 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=111 x=384 y=0 width=24 height=80 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=114 x=418 y=0 width=15 height=80 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=116 x=443 y=0 width=16 height=80 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=15
+char id=117 x=469 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=118 x=504 y=0 width=20 height=80 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=119 x=534 y=0 width=31 height=80 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=120 x=575 y=0 width=22 height=80 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=32 x=607 y=0 width=11 height=80 xoffset=0 yoffset=0 xadvance=11 page=0 chnl=15
+char id=48 x=628 y=0 width=27 height=80 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=49 x=665 y=0 width=19 height=80 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=50 x=694 y=0 width=24 height=80 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=51 x=728 y=0 width=22 height=80 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=52 x=760 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=53 x=795 y=0 width=23 height=80 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=54 x=828 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=55 x=863 y=0 width=21 height=80 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=56 x=894 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=57 x=929 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15

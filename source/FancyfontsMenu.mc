@@ -10,14 +10,14 @@ class FancyfontsMenu extends WatchUi.Menu2 {
 
         Menu2.initialize({:title => CUSTOMIZE_MENU_TITLE});
 
-        // var multiOptionSelection = PropertyUtils.getPropertyElseDefault(MULTI_OPTION_PROPERTY, MULTI_OPTION_DEFAULT);
-        // var multiOptoinName = MULTI_OPTION_NAMES[multiOptionSelection];
-        // addItem(new WatchUi.MenuItem(
-        //     MULTI_OPTION_LABEL, 
-        //     multiOptoinName, 
-        //     MULTI_OPTION_PROPERTY, 
-        //     null
-        // ));
+        var fontSelection = PropertyUtils.getPropertyElseDefault(FONT_PROPERTY_ID, FONT_PROPERTY_DEFAULT);
+        var fontName = TIME_FONTS[fontSelection][:name];
+        addItem(new WatchUi.MenuItem(
+            FONT_MENU_TITLE, 
+            fontName, 
+            FONT_PROPERTY_ID, 
+            null
+        ));
 
     }
 

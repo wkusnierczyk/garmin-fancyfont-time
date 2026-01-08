@@ -1,15 +1,34 @@
 info face="CormorantUnicase-Bold.ttf" size=82 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=100 base=76 scaleW=522 scaleH=100 pages=1 packed=0
+common lineHeight=100 base=76 scaleW=1595 scaleH=100 pages=1 packed=0
 page id=0 file="CormorantUnicase-Bold-82.png"
-chars count=11
-char id=48 x=0 y=0 width=45 height=100 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
-char id=49 x=55 y=0 width=29 height=100 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
-char id=50 x=94 y=0 width=37 height=100 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=51 x=141 y=0 width=37 height=100 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=52 x=188 y=0 width=40 height=100 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
-char id=53 x=238 y=0 width=36 height=100 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
-char id=54 x=284 y=0 width=42 height=100 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
-char id=55 x=336 y=0 width=40 height=100 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
-char id=56 x=386 y=0 width=47 height=100 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
-char id=57 x=443 y=0 width=42 height=100 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
-char id=58 x=495 y=0 width=17 height=100 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=46 height=100 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=70 x=56 y=0 width=43 height=100 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=78 x=109 y=0 width=61 height=100 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=15
+char id=79 x=180 y=0 width=63 height=100 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=83 x=253 y=0 width=43 height=100 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=84 x=306 y=0 width=53 height=100 xoffset=0 yoffset=0 xadvance=53 page=0 chnl=15
+char id=101 x=369 y=0 width=38 height=100 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=103 x=417 y=0 width=46 height=100 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=104 x=473 y=0 width=52 height=100 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
+char id=105 x=535 y=0 width=25 height=100 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=108 x=570 y=0 width=39 height=100 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=110 x=619 y=0 width=49 height=100 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=111 x=678 y=0 width=47 height=100 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=114 x=735 y=0 width=45 height=100 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=116 x=790 y=0 width=32 height=100 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=117 x=832 y=0 width=50 height=100 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=118 x=892 y=0 width=42 height=100 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=119 x=944 y=0 width=61 height=100 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=15
+char id=120 x=1015 y=0 width=45 height=100 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=32 x=1070 y=0 width=20 height=100 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=48 x=1100 y=0 width=45 height=100 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=49 x=1155 y=0 width=29 height=100 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=50 x=1194 y=0 width=37 height=100 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=51 x=1241 y=0 width=37 height=100 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=52 x=1288 y=0 width=40 height=100 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=53 x=1338 y=0 width=36 height=100 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=54 x=1384 y=0 width=42 height=100 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=55 x=1436 y=0 width=40 height=100 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=56 x=1486 y=0 width=47 height=100 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=57 x=1543 y=0 width=42 height=100 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15

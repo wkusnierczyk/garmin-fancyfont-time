@@ -1,15 +1,34 @@
 info face="Amaranth-Regular.ttf" size=71 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=87 base=70 scaleW=492 scaleH=87 pages=1 packed=0
+common lineHeight=87 base=70 scaleW=1365 scaleH=87 pages=1 packed=0
 page id=0 file="Amaranth-Regular-71.png"
-chars count=11
-char id=48 x=0 y=0 width=40 height=87 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
-char id=49 x=50 y=0 width=28 height=87 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
-char id=50 x=88 y=0 width=35 height=87 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
-char id=51 x=133 y=0 width=36 height=87 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
-char id=52 x=179 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
-char id=53 x=227 y=0 width=37 height=87 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=54 x=274 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
-char id=55 x=322 y=0 width=33 height=87 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
-char id=56 x=365 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
-char id=57 x=413 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
-char id=58 x=461 y=0 width=21 height=87 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=37 height=87 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=70 x=47 y=0 width=35 height=87 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=78 x=92 y=0 width=47 height=87 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=79 x=149 y=0 width=48 height=87 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=83 x=207 y=0 width=36 height=87 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=84 x=253 y=0 width=35 height=87 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=101 x=298 y=0 width=34 height=87 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=103 x=342 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=104 x=390 y=0 width=39 height=87 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=105 x=439 y=0 width=19 height=87 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=108 x=468 y=0 width=21 height=87 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=110 x=499 y=0 width=39 height=87 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=111 x=548 y=0 width=37 height=87 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=114 x=595 y=0 width=27 height=87 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=116 x=632 y=0 width=26 height=87 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=117 x=668 y=0 width=39 height=87 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=118 x=717 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=119 x=765 y=0 width=55 height=87 xoffset=0 yoffset=0 xadvance=55 page=0 chnl=15
+char id=120 x=830 y=0 width=35 height=87 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=32 x=875 y=0 width=19 height=87 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=48 x=904 y=0 width=40 height=87 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=49 x=954 y=0 width=28 height=87 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=50 x=992 y=0 width=35 height=87 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=51 x=1037 y=0 width=36 height=87 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=52 x=1083 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=53 x=1131 y=0 width=37 height=87 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=54 x=1178 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=55 x=1226 y=0 width=33 height=87 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=56 x=1269 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=57 x=1317 y=0 width=38 height=87 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15

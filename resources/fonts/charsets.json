@@ -9,7 +9,15 @@
     },
     {
         "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
-        "fontId": "GloriaHallelujah"
+        "fontId": "Amaranth"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "AmaticSC"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Asimovian"
     },
     {
         "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
@@ -17,6 +25,130 @@
     },
     {
         "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "CaveatBrush"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Changa"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "CormorantUnicase"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "CroissantOne"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Delius"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "DynaPuff"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "EpundaSlab"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Fondamento"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "GloriaHallelujah"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "GrenzeGotisch"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Handlee"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Italiana"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Jura"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Limelight"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "LobsterTwo"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "LoveYaLikeASister"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Macondo"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Megrim"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Merienda"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
         "fontId": "Philosopher"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "PoetsenOne"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Quintessential"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "RammettoOne"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Sniglet"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "SpecialElite"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "StackSansNotch"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "SUSE"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "TenorSans"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "TurretRoad"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "UnicaOne"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "UnifrakturMaguntia"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "YuseiMagic"
     }
 ]

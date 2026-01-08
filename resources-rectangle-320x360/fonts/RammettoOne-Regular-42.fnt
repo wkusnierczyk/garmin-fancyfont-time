@@ -1,15 +1,34 @@
 info face="RammettoOne-Regular.ttf" size=42 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=71 base=50 scaleW=484 scaleH=71 pages=1 packed=0
+common lineHeight=71 base=50 scaleW=1260 scaleH=71 pages=1 packed=0
 page id=0 file="RammettoOne-Regular-42.png"
-chars count=11
-char id=48 x=0 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=49 x=47 y=0 width=24 height=71 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
-char id=50 x=81 y=0 width=36 height=71 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
-char id=51 x=127 y=0 width=38 height=71 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
-char id=52 x=175 y=0 width=39 height=71 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
-char id=53 x=224 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=54 x=271 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=55 x=318 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=56 x=365 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=57 x=412 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
-char id=58 x=459 y=0 width=15 height=71 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=30 height=71 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=70 x=40 y=0 width=28 height=71 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=78 x=78 y=0 width=38 height=71 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=79 x=126 y=0 width=40 height=71 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=83 x=176 y=0 width=30 height=71 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=84 x=216 y=0 width=34 height=71 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=101 x=260 y=0 width=31 height=71 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=103 x=301 y=0 width=35 height=71 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=104 x=346 y=0 width=35 height=71 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=105 x=391 y=0 width=17 height=71 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=108 x=418 y=0 width=17 height=71 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=110 x=445 y=0 width=35 height=71 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=111 x=490 y=0 width=33 height=71 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=114 x=533 y=0 width=22 height=71 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=116 x=565 y=0 width=24 height=71 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=117 x=599 y=0 width=35 height=71 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=118 x=644 y=0 width=31 height=71 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=119 x=685 y=0 width=43 height=71 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=120 x=738 y=0 width=32 height=71 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=32 x=780 y=0 width=11 height=71 xoffset=0 yoffset=0 xadvance=11 page=0 chnl=15
+char id=48 x=801 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=49 x=848 y=0 width=24 height=71 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=50 x=882 y=0 width=36 height=71 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=51 x=928 y=0 width=38 height=71 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=52 x=976 y=0 width=39 height=71 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=53 x=1025 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=54 x=1072 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=55 x=1119 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=56 x=1166 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=57 x=1213 y=0 width=37 height=71 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15

@@ -13,13 +13,13 @@ class FancyfontsDelegate extends WatchUi.Menu2InputDelegate {
     function onSelect(item) {
 
         var id = item.getId();
-        
-        // if (id.equals(MULTI_OPTION_PROPERTY) && item instanceof WatchUi.MenuItem) {
-        //     var currentOption = PropertyUtils.getPropertyElseDefault(MULTI_OPTION_PROPERTY, MULTI_OPTION_DEFAULT);
-        //     var newOption = (currentOption % MULTI_OPTION_NAMES.size()) + 1;
-        //     Properties.setValue(MULTI_OPTION_PROPERTY, newOption);
-        //     item.setSubLabel(MULTI_OPTION_NAMES[newOption -1]);
-        // }
+
+        if (id.equals(FONT_PROPERTY_ID) && item instanceof WatchUi.MenuItem) {
+            var currentFont = PropertyUtils.getPropertyElseDefault(FONT_PROPERTY_ID, FONT_PROPERTY_DEFAULT);
+            var newFont = (currentFont + 1) % TIME_FONTS.size();
+            Properties.setValue(FONT_PROPERTY_ID, newFont);
+            item.setSubLabel(TIME_FONTS[newFont][:name]);
+        }
 
     }
 

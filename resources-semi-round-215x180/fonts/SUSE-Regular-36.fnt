@@ -1,15 +1,34 @@
 info face="SUSE-Regular.ttf" size=36 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=46 base=36 scaleW=338 scaleH=46 pages=1 packed=0
+common lineHeight=46 base=36 scaleW=894 scaleH=46 pages=1 packed=0
 page id=0 file="SUSE-Regular-36.png"
-chars count=11
-char id=48 x=0 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=49 x=32 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=50 x=64 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=51 x=96 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=52 x=128 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=53 x=160 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=54 x=192 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=55 x=224 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=56 x=256 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=57 x=288 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=58 x=320 y=0 width=8 height=46 xoffset=0 yoffset=0 xadvance=8 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=21 height=46 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=70 x=31 y=0 width=20 height=46 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=78 x=61 y=0 width=26 height=46 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=79 x=97 y=0 width=28 height=46 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=83 x=135 y=0 width=20 height=46 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=84 x=165 y=0 width=20 height=46 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=101 x=195 y=0 width=19 height=46 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=103 x=224 y=0 width=18 height=46 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=104 x=252 y=0 width=21 height=46 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=105 x=283 y=0 width=10 height=46 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+char id=108 x=303 y=0 width=10 height=46 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+char id=110 x=323 y=0 width=21 height=46 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=111 x=354 y=0 width=21 height=46 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=114 x=385 y=0 width=13 height=46 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=116 x=408 y=0 width=13 height=46 xoffset=0 yoffset=0 xadvance=13 page=0 chnl=15
+char id=117 x=431 y=0 width=21 height=46 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=118 x=462 y=0 width=18 height=46 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=119 x=490 y=0 width=27 height=46 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=120 x=527 y=0 width=18 height=46 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=32 x=555 y=0 width=9 height=46 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=15
+char id=48 x=574 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=49 x=606 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=50 x=638 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=51 x=670 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=52 x=702 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=53 x=734 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=54 x=766 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=55 x=798 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=56 x=830 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=57 x=862 y=0 width=22 height=46 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15

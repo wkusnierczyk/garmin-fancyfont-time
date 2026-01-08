@@ -1,15 +1,34 @@
 info face="Megrim-Regular.ttf" size=73 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=86 base=65 scaleW=495 scaleH=86 pages=1 packed=0
+common lineHeight=86 base=65 scaleW=1460 scaleH=86 pages=1 packed=0
 page id=0 file="Megrim-Regular-73.png"
-chars count=11
-char id=48 x=0 y=0 width=42 height=86 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
-char id=49 x=52 y=0 width=20 height=86 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
-char id=50 x=82 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
-char id=51 x=131 y=0 width=41 height=86 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
-char id=52 x=182 y=0 width=34 height=86 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
-char id=53 x=226 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
-char id=54 x=275 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
-char id=55 x=324 y=0 width=31 height=86 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
-char id=56 x=365 y=0 width=43 height=86 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
-char id=57 x=418 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
-char id=58 x=467 y=0 width=18 height=86 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=43 height=86 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=70 x=53 y=0 width=41 height=86 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=78 x=104 y=0 width=47 height=86 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=79 x=161 y=0 width=46 height=86 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=83 x=217 y=0 width=41 height=86 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=84 x=268 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=101 x=317 y=0 width=40 height=86 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=103 x=367 y=0 width=42 height=86 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=104 x=419 y=0 width=41 height=86 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=105 x=470 y=0 width=17 height=86 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=108 x=497 y=0 width=33 height=86 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=110 x=540 y=0 width=43 height=86 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=111 x=593 y=0 width=45 height=86 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=114 x=648 y=0 width=38 height=86 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=116 x=696 y=0 width=36 height=86 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=117 x=742 y=0 width=43 height=86 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=118 x=795 y=0 width=40 height=86 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=119 x=845 y=0 width=62 height=86 xoffset=0 yoffset=0 xadvance=62 page=0 chnl=15
+char id=120 x=917 y=0 width=34 height=86 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=32 x=961 y=0 width=22 height=86 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=48 x=993 y=0 width=42 height=86 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=49 x=1045 y=0 width=20 height=86 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=50 x=1075 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=51 x=1124 y=0 width=41 height=86 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=52 x=1175 y=0 width=34 height=86 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=53 x=1219 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=54 x=1268 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=55 x=1317 y=0 width=31 height=86 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=56 x=1358 y=0 width=43 height=86 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=57 x=1411 y=0 width=39 height=86 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15

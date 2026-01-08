@@ -1,15 +1,34 @@
 info face="StackSansNotch-Regular.ttf" size=42 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=55 base=42 scaleW=368 scaleH=55 pages=1 packed=0
+common lineHeight=55 base=42 scaleW=1007 scaleH=55 pages=1 packed=0
 page id=0 file="StackSansNotch-Regular-42.png"
-chars count=11
-char id=48 x=0 y=0 width=28 height=55 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
-char id=49 x=38 y=0 width=21 height=55 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
-char id=50 x=69 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=51 x=104 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=52 x=140 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=53 x=175 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=54 x=210 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=55 x=246 y=0 width=22 height=55 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
-char id=56 x=278 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=57 x=313 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=58 x=349 y=0 width=9 height=55 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=70 x=35 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=78 x=70 y=0 width=28 height=55 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=79 x=108 y=0 width=32 height=55 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=83 x=150 y=0 width=27 height=55 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=84 x=187 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=101 x=223 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=103 x=259 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=104 x=295 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=105 x=330 y=0 width=11 height=55 xoffset=0 yoffset=0 xadvance=11 page=0 chnl=15
+char id=108 x=351 y=0 width=9 height=55 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=15
+char id=110 x=370 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=111 x=405 y=0 width=27 height=55 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=114 x=442 y=0 width=16 height=55 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=15
+char id=116 x=468 y=0 width=16 height=55 xoffset=0 yoffset=0 xadvance=16 page=0 chnl=15
+char id=117 x=494 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=118 x=529 y=0 width=24 height=55 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=119 x=563 y=0 width=33 height=55 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=120 x=606 y=0 width=23 height=55 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=32 x=639 y=0 width=9 height=55 xoffset=0 yoffset=0 xadvance=9 page=0 chnl=15
+char id=48 x=658 y=0 width=28 height=55 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=49 x=696 y=0 width=21 height=55 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=50 x=727 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=51 x=762 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=52 x=798 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=53 x=833 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=54 x=868 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=55 x=904 y=0 width=22 height=55 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=56 x=936 y=0 width=25 height=55 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=57 x=971 y=0 width=26 height=55 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15

@@ -1,15 +1,34 @@
 info face="Fondamento-Regular.ttf" size=82 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=114 base=83 scaleW=606 scaleH=114 pages=1 packed=0
+common lineHeight=114 base=83 scaleW=1643 scaleH=114 pages=1 packed=0
 page id=0 file="Fondamento-Regular-82.png"
-chars count=11
-char id=48 x=0 y=0 width=60 height=114 xoffset=0 yoffset=0 xadvance=60 page=0 chnl=15
-char id=49 x=70 y=0 width=31 height=114 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
-char id=50 x=111 y=0 width=44 height=114 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
-char id=51 x=165 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
-char id=52 x=220 y=0 width=55 height=114 xoffset=0 yoffset=0 xadvance=55 page=0 chnl=15
-char id=53 x=285 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
-char id=54 x=340 y=0 width=52 height=114 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
-char id=55 x=402 y=0 width=40 height=114 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
-char id=56 x=452 y=0 width=49 height=114 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
-char id=57 x=511 y=0 width=52 height=114 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
-char id=58 x=573 y=0 width=23 height=114 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=46 height=114 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=70 x=56 y=0 width=44 height=114 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=78 x=110 y=0 width=74 height=114 xoffset=0 yoffset=0 xadvance=74 page=0 chnl=15
+char id=79 x=194 y=0 width=71 height=114 xoffset=0 yoffset=0 xadvance=71 page=0 chnl=15
+char id=83 x=275 y=0 width=47 height=114 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=84 x=332 y=0 width=50 height=114 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=101 x=392 y=0 width=35 height=114 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=103 x=437 y=0 width=39 height=114 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=104 x=486 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=105 x=541 y=0 width=24 height=114 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=108 x=575 y=0 width=23 height=114 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=110 x=608 y=0 width=46 height=114 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=111 x=664 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=114 x=719 y=0 width=36 height=114 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=15
+char id=116 x=765 y=0 width=28 height=114 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=117 x=803 y=0 width=47 height=114 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=118 x=860 y=0 width=43 height=114 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=119 x=913 y=0 width=62 height=114 xoffset=0 yoffset=0 xadvance=62 page=0 chnl=15
+char id=120 x=985 y=0 width=44 height=114 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=32 x=1039 y=0 width=21 height=114 xoffset=0 yoffset=0 xadvance=21 page=0 chnl=15
+char id=48 x=1070 y=0 width=60 height=114 xoffset=0 yoffset=0 xadvance=60 page=0 chnl=15
+char id=49 x=1140 y=0 width=31 height=114 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=50 x=1181 y=0 width=44 height=114 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=51 x=1235 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=52 x=1290 y=0 width=55 height=114 xoffset=0 yoffset=0 xadvance=55 page=0 chnl=15
+char id=53 x=1355 y=0 width=45 height=114 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=54 x=1410 y=0 width=52 height=114 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
+char id=55 x=1472 y=0 width=40 height=114 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=56 x=1522 y=0 width=49 height=114 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=57 x=1581 y=0 width=52 height=114 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15

@@ -1,15 +1,34 @@
 info face="LoveYaLikeASister-Regular.ttf" size=56 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
-common lineHeight=70 base=52 scaleW=381 scaleH=70 pages=1 packed=0
+common lineHeight=70 base=52 scaleW=1119 scaleH=70 pages=1 packed=0
 page id=0 file="LoveYaLikeASister-Regular-56.png"
-chars count=11
-char id=48 x=0 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
-char id=49 x=42 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
-char id=50 x=75 y=0 width=28 height=70 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
-char id=51 x=113 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=52 x=149 y=0 width=27 height=70 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
-char id=53 x=186 y=0 width=25 height=70 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
-char id=54 x=221 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
-char id=55 x=254 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
-char id=56 x=287 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=57 x=323 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
-char id=58 x=359 y=0 width=12 height=70 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=15
+chars count=30
+char id=69 x=0 y=0 width=28 height=70 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=70 x=38 y=0 width=25 height=70 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=78 x=73 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=79 x=115 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=83 x=157 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=84 x=193 y=0 width=25 height=70 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=101 x=228 y=0 width=29 height=70 xoffset=0 yoffset=0 xadvance=29 page=0 chnl=15
+char id=103 x=267 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=104 x=309 y=0 width=30 height=70 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=105 x=349 y=0 width=17 height=70 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=108 x=376 y=0 width=18 height=70 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=110 x=404 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=111 x=446 y=0 width=28 height=70 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=114 x=484 y=0 width=28 height=70 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=116 x=522 y=0 width=25 height=70 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=117 x=557 y=0 width=33 height=70 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=118 x=600 y=0 width=30 height=70 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=119 x=640 y=0 width=37 height=70 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=15
+char id=120 x=687 y=0 width=35 height=70 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=32 x=732 y=0 width=18 height=70 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=48 x=760 y=0 width=32 height=70 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=49 x=802 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=50 x=835 y=0 width=28 height=70 xoffset=0 yoffset=0 xadvance=28 page=0 chnl=15
+char id=51 x=873 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=52 x=909 y=0 width=27 height=70 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=53 x=946 y=0 width=25 height=70 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=54 x=981 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=55 x=1014 y=0 width=23 height=70 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=56 x=1047 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=57 x=1083 y=0 width=26 height=70 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15

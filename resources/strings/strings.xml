@@ -6,7 +6,44 @@
     <string id="FancyfontsMenuTitle">Fancyfonts Time</string>
 
     <string id="FontMenuTitle">Font</string>
-    <string id="Oxygen">Oxygen</string>
+
+    <string id="Acme">Acme</string>
+    <string id="Amaranth">Amaranth</string>
+    <string id="AmaticSC">AmaticSC</string>
+    <string id="Asimovian">Asimovian</string>
+    <string id="BerkshireSwash">BerkshireSwash</string>
+    <string id="CaveatBrush">CaveatBrush</string>
+    <string id="Changa">Changa</string>
+    <string id="CormorantUnicase">CormorantUnicase</string>
+    <string id="CroissantOne">CroissantOne</string>
+    <string id="Delius">Delius</string>
+    <string id="DynaPuff">DynaPuff</string>
+    <string id="EpundaSlab">EpundaSlab</string>
+    <string id="Fondamento">Fondamento</string>
+    <string id="GloriaHallelujah">GloriaHallelujah</string>
+    <string id="GrenzeGotisch">GrenzeGotisch</string>
+    <string id="Handlee">Handlee</string>
+    <string id="Italiana">Italiana</string>
+    <string id="Jura">Jura</string>
+    <string id="Limelight">Limelight</string>
+    <string id="LobsterTwo">LobsterTwo</string>
+    <string id="LoveYaLikeASister">LoveYaLikeASister</string>
+    <string id="Macondo">Macondo</string>
+    <string id="Megrim">Megrim</string>
+    <string id="Merienda">Merienda</string>
+    <string id="Philosopher">Philosopher</string>
+    <string id="PoetsenOne">PoetsenOne</string>
+    <string id="Quintessential">Quintessential</string>
+    <string id="RammettoOne">RammettoOne</string>
+    <string id="Sniglet">Sniglet</string>
+    <string id="SpecialElite">SpecialElite</string>
+    <string id="StackSansNotch">StackSansNotch</string>
+    <string id="SUSE">SUSE</string>
+    <string id="TenorSans">TenorSans</string>
+    <string id="TurretRoad">TurretRoad</string>
+    <string id="UnicaOne">UnicaOne</string>
+    <string id="UnifrakturMaguntia">UnifrakturMaguntia</string>
+    <string id="YuseiMagic">YuseiMagic</string>
 
     <jsonData id="FontNames">[
         "Oxygen"
