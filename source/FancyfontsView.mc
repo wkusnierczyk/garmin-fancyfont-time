@@ -7,6 +7,8 @@ import Toybox.Lang;
 
 class FancyfontsView extends WatchUi.WatchFace {
 
+    private const _fancyfonts = new Fancyfonts();
+
     function initialize() {
         WatchFace.initialize();
     }
@@ -25,9 +27,9 @@ class FancyfontsView extends WatchUi.WatchFace {
 
         var clockTime = System.getClockTime();
 
-        var hour = clockTime.hour;
-        var minutes = clockTime.min;
-        var seconds = clockTime.sec;
+        _fancyfonts
+            .forTime(clockTime)
+            .draw(dc);
 
     }
 
