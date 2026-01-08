@@ -1,10 +1,18 @@
 [
     {
-        "fontCharset": "EFNOSTeghilnortuvwx",
-        "fontId": "HourFont"
+        "fontCharset": "ADFJMNOSTWabcdeghilmnoprstuvy, 0123456789",
+        "fontId": "Date"
     },
     {
-        "fontCharset": "0123456789: ",
-        "fontId": "MinuteFont"
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Acme"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "GloriaHallelujah"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "BerkshireSwash"
     }
 ]

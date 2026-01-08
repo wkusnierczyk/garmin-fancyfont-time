@@ -1,6 +1,10 @@
 <resources>
 
     <fonts>
+        <font id="Date" filename="UbuntuCondensed-Regular-40.fnt" antialias="true" />
+        <font id="Acme" filename="Acme-Regular-90.fnt" antialias="true" />
+        <font id="BerkshireSwash" filename="BerkshireSwash-Regular-90.fnt" antialias="true" />
+        <font id="GloriaHallelujah" filename="GloriaHallelujah-Regular-80.fnt" antialias="true" />
     </fonts>
 
     <jsonData id="FontCharsets" filename="charsets.json"/>
