@@ -8,14 +8,8 @@ class FancyfontsApp extends Application.AppBase {
         AppBase.initialize();
     }
 
-    function onStart(state) {
-    }
-
-    function onStop(state) {
-    }
-
     function getInitialView() {
-        return [ new TimeView() ];
+        return [ new FancyfontsView() ];
     }
 
     function onSettingsChanged() as Void {
@@ -23,7 +17,7 @@ class FancyfontsApp extends Application.AppBase {
     }
 
     function getSettingsView() {
-        return [ new TimeSettingsMenu(), new TimeSettingsDelegate() ];
+        return [ new FancyfontsMenu(), new FancyfontsDelegate() ];
     }
 
 }

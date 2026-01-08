@@ -1,20 +1,15 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="http://developer.garmin.com/downloads/connect-iq/resources.xsd">
 
-    <string id="AppName">{blank:ucname}Time</string>
-    <string id="Time">{blank:ucname} Time</string>
+    <string id="AppName">FancyfontsTime</string>
 
-    <string id="StandardTimeMenuTitle">Show Standard Time</string>
+    <string id="FancyfontsMenuTitle">Fancyfonts Time</string>
 
-    <string id="MultiOptionMenuTitle">MultiOption</string>
-    <string id="Option1">Option 1</string>
-    <string id="Option2">Option 2</string>
-    <string id="Option3">Option 3</string>
+    <string id="FontMenuTitle">Font</string>
+    <string id="Oxygen">Oxygen</string>
 
-    <jsonData id="MultiOptionValues">[
-        "Option 1",
-        "Option 2",
-        "Option 3"
+    <jsonData id="FontNames">[
+        "Oxygen"
     ]</jsonData>
 
 </resources>

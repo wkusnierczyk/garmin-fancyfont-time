@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
-    <iq:application id="76dcf93e-3946-448f-a4bf-b01b4b07f54b" type="watchface" name="@Strings.AppName" entry="FancyfontsApp" version="0.1.1" auncherIcon="@Drawables.LauncherIcon" minApiLevel="1.2.0">
+    <iq:application id="76dcf93e-3946-448f-a4bf-b01b4b07f54b" type="watchface" name="@Strings.AppName" entry="FancyfontsApp" version="0.1.1" launcherIcon="@Drawables.LauncherIcon" minApiLevel="1.2.0">
         <iq:products>
             <iq:product id="descentg1"/>
             <iq:product id="descentg2"/>
