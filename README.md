@@ -1,6 +1,6 @@
 # Garmin Fancyfonts Time
 
-A minimalist, elegant, nerdy, typography-focused Garmin Connect IQ watch face that displays the current time {blank:short-description}.
+A minimalist, elegant, nerdy, typography-focused Garmin Connect IQ watch face that displays the current time using a variety of beautiful fonts..
 
 ![Fancyfonts Time](resources/graphics/FancyfontsTimeHero-small.png)
 
@@ -38,25 +38,46 @@ The Fancyfonts Time watch face supports the following features:
 
 The Fancyfonts Time watch face uses custom fonts:
 
-{blank:fonts}
-
-> The development of Garmin watch faces motivated the implementation of two useful tools:
-> * A TTF to FNT+PNG converter ([`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp)).  
-> Garmin watches use non-scalable fixed-size bitmap fonts, and cannot handle variable size True Type fonts directly.
-> * An font scaler automation tool ([`garmin-font-scaler`](https://github.com/wkusnierczyk/garmin-font-scaler)).  
-> Garmin watches come in a variety of shapes and resolutions, and bitmap fonts need to be scaled for each device proportionally to its resolution.
-
-The font development proceeded as follows:
-
-* The fonts were downloaded from [Google Fonts](https://fonts.google.com/) as True Type  (`.ttf`) fonts.
-* The fonts were converted to bitmaps as `.fnt` and `.png` pairs using the open source command-line [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp) converter.
-* The font sizes were established to match the Garmin Fenix 7X Solar watch 280x280 pixel screen resolution.
-* The fonts were then scaled proportionally to match other screen sizes available on Garmin watches using the [`garmin-font-scaler`](https://github.com/wkusnierczyk/garmin-font-scaler) tool.
-
-
-The table below lists all font sizes provided for the supported screen resolutions.
-
-{blank:font-table}
+| Font                           | Size on 454x454 pixel screen |
+| :----------------------------- | ---------------------------: |
+| Acme regular                   |                           56 |
+| Amaranth regular               |                           56 |
+| AmaticSC regular               |                           74 |
+| Asimovian regular              |                           49 |
+| BerkshireSwash regular         |                           56 |
+| CaveatBrush regular            |                           62 |
+| Changa regular                 |                           56 |
+| CormorantUnicase bold          |                           56 |
+| CroissantOne regular           |                           49 |
+| UbuntuCondensed regular        |                           25 |
+| Delius regular                 |                           56 |
+| DynaPuff_SemiCondensed regular |                           56 |
+| EpundaSlab medium              |                           56 |
+| Fondamento regular             |                           56 |
+| GloriaHallelujah regular       |                           49 |
+| GrenzeGotisch medium           |                           62 |
+| Handlee regular                |                           56 |
+| Italiana regular               |                           62 |
+| Jura regular                   |                           49 |
+| Limelight regular              |                           49 |
+| LobsterTwo regular             |                           56 |
+| LoveYaLikeASister regular      |                           56 |
+| Macondo regular                |                           56 |
+| Megrim regular                 |                           49 |
+| Merienda regular               |                           49 |
+| Philosopher bold               |                           49 |
+| PoetsenOne regular             |                           49 |
+| Quintessential regular         |                           62 |
+| RammettoOne regular            |                           37 |
+| Sniglet regular                |                           49 |
+| SpecialElite regular           |                           49 |
+| StackSansNotch regular         |                           49 |
+| SUSE regular                   |                           56 |
+| TenorSans regular              |                           49 |
+| TurretRoad regular             |                           49 |
+| UnicaOne regular               |                           56 |
+| UnifrakturMaguntia regular     |                           62 |
+| YuseiMagic regular             |                           49 |
 
 ## Build, test, deploy
 
