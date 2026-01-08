@@ -1,0 +1,34 @@
+info face="GloriaHallelujah-Regular.ttf" size=111 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,1
+common lineHeight=221 base=156 scaleW=1838 scaleH=221 pages=1 packed=0
+page id=0 file="GloriaHallelujah-Regular-111.png"
+chars count=30
+char id=69 x=0 y=0 width=72 height=221 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=15
+char id=70 x=74 y=0 width=56 height=221 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=15
+char id=78 x=132 y=0 width=75 height=221 xoffset=0 yoffset=0 xadvance=75 page=0 chnl=15
+char id=79 x=209 y=0 width=70 height=221 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=83 x=281 y=0 width=58 height=221 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=84 x=341 y=0 width=89 height=221 xoffset=0 yoffset=0 xadvance=89 page=0 chnl=15
+char id=101 x=432 y=0 width=61 height=221 xoffset=0 yoffset=0 xadvance=61 page=0 chnl=15
+char id=103 x=495 y=0 width=63 height=221 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=104 x=560 y=0 width=53 height=221 xoffset=0 yoffset=0 xadvance=53 page=0 chnl=15
+char id=105 x=615 y=0 width=26 height=221 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=108 x=643 y=0 width=26 height=221 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=110 x=671 y=0 width=63 height=221 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=111 x=736 y=0 width=56 height=221 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=15
+char id=114 x=794 y=0 width=56 height=221 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=15
+char id=116 x=852 y=0 width=70 height=221 xoffset=0 yoffset=0 xadvance=70 page=0 chnl=15
+char id=117 x=924 y=0 width=56 height=221 xoffset=0 yoffset=0 xadvance=56 page=0 chnl=15
+char id=118 x=982 y=0 width=58 height=221 xoffset=0 yoffset=0 xadvance=58 page=0 chnl=15
+char id=119 x=1042 y=0 width=82 height=221 xoffset=0 yoffset=0 xadvance=82 page=0 chnl=15
+char id=120 x=1126 y=0 width=54 height=221 xoffset=0 yoffset=0 xadvance=54 page=0 chnl=15
+char id=32 x=1182 y=0 width=50 height=221 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=48 x=1234 y=0 width=66 height=221 xoffset=0 yoffset=0 xadvance=66 page=0 chnl=15
+char id=49 x=1302 y=0 width=26 height=221 xoffset=0 yoffset=0 xadvance=26 page=0 chnl=15
+char id=50 x=1330 y=0 width=72 height=221 xoffset=0 yoffset=0 xadvance=72 page=0 chnl=15
+char id=51 x=1404 y=0 width=63 height=221 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=52 x=1469 y=0 width=68 height=221 xoffset=0 yoffset=0 xadvance=68 page=0 chnl=15
+char id=53 x=1539 y=0 width=54 height=221 xoffset=0 yoffset=0 xadvance=54 page=0 chnl=15
+char id=54 x=1595 y=0 width=52 height=221 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
+char id=55 x=1649 y=0 width=66 height=221 xoffset=0 yoffset=0 xadvance=66 page=0 chnl=15
+char id=56 x=1717 y=0 width=63 height=221 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=57 x=1782 y=0 width=54 height=221 xoffset=0 yoffset=0 xadvance=54 page=0 chnl=15

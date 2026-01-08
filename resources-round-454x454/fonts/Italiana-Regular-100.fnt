@@ -1,0 +1,15 @@
+info face="Italiana-Regular.ttf" size=100 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=118 base=93 scaleW=598 scaleH=118 pages=1 packed=0
+page id=0 file="Italiana-Regular-100.png"
+chars count=11
+char id=48 x=0 y=0 width=65 height=118 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=15
+char id=49 x=75 y=0 width=40 height=118 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=50 x=125 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=51 x=179 y=0 width=38 height=118 xoffset=0 yoffset=0 xadvance=38 page=0 chnl=15
+char id=52 x=227 y=0 width=45 height=118 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=53 x=282 y=0 width=35 height=118 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=54 x=327 y=0 width=50 height=118 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=55 x=387 y=0 width=42 height=118 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=56 x=439 y=0 width=54 height=118 xoffset=0 yoffset=0 xadvance=54 page=0 chnl=15
+char id=57 x=503 y=0 width=50 height=118 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=58 x=563 y=0 width=25 height=118 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15

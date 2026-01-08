@@ -1,0 +1,15 @@
+info face="RammettoOne-Regular.ttf" size=55 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=93 base=66 scaleW=600 scaleH=93 pages=1 packed=0
+page id=0 file="RammettoOne-Regular-55.png"
+chars count=11
+char id=48 x=0 y=0 width=49 height=93 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=49 x=59 y=0 width=32 height=93 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=50 x=101 y=0 width=47 height=93 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=51 x=158 y=0 width=50 height=93 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=52 x=218 y=0 width=51 height=93 xoffset=0 yoffset=0 xadvance=51 page=0 chnl=15
+char id=53 x=279 y=0 width=49 height=93 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=54 x=338 y=0 width=48 height=93 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=55 x=396 y=0 width=48 height=93 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=56 x=454 y=0 width=48 height=93 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=57 x=512 y=0 width=48 height=93 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=58 x=570 y=0 width=20 height=93 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15

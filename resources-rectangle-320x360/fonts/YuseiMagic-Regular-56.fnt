@@ -1,0 +1,15 @@
+info face="YuseiMagic-Regular.ttf" size=56 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=82 base=65 scaleW=444 scaleH=82 pages=1 packed=0
+page id=0 file="YuseiMagic-Regular-56.png"
+chars count=11
+char id=48 x=0 y=0 width=34 height=82 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=49 x=44 y=0 width=23 height=82 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=50 x=77 y=0 width=31 height=82 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=51 x=118 y=0 width=32 height=82 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=52 x=160 y=0 width=34 height=82 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=53 x=204 y=0 width=31 height=82 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=54 x=245 y=0 width=33 height=82 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=15
+char id=55 x=288 y=0 width=32 height=82 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=15
+char id=56 x=330 y=0 width=34 height=82 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=57 x=374 y=0 width=31 height=82 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=58 x=415 y=0 width=19 height=82 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15

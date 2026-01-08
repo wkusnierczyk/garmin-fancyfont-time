@@ -1,0 +1,15 @@
+info face="TurretRoad-Regular.ttf" size=73 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=80 base=63 scaleW=536 scaleH=80 pages=1 packed=0
+page id=0 file="TurretRoad-Regular-73.png"
+chars count=11
+char id=48 x=0 y=0 width=48 height=80 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=49 x=58 y=0 width=25 height=80 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=50 x=93 y=0 width=48 height=80 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=51 x=151 y=0 width=41 height=80 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=52 x=202 y=0 width=39 height=80 xoffset=0 yoffset=0 xadvance=39 page=0 chnl=15
+char id=53 x=251 y=0 width=48 height=80 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=54 x=309 y=0 width=41 height=80 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=55 x=360 y=0 width=43 height=80 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=56 x=413 y=0 width=41 height=80 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=15
+char id=57 x=464 y=0 width=42 height=80 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=58 x=516 y=0 width=10 height=80 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15

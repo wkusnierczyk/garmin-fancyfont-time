@@ -1,0 +1,34 @@
+info face="EpundaSlab-Medium.ttf" size=90 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1
+common lineHeight=118 base=89 scaleW=1637 scaleH=118 pages=1 packed=0
+page id=0 file="EpundaSlab-Medium-90.png"
+chars count=30
+char id=69 x=0 y=0 width=50 height=118 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=70 x=60 y=0 width=48 height=118 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=78 x=118 y=0 width=63 height=118 xoffset=0 yoffset=0 xadvance=63 page=0 chnl=15
+char id=79 x=191 y=0 width=59 height=118 xoffset=0 yoffset=0 xadvance=59 page=0 chnl=15
+char id=83 x=260 y=0 width=47 height=118 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=84 x=317 y=0 width=46 height=118 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=101 x=373 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=103 x=427 y=0 width=45 height=118 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=104 x=482 y=0 width=49 height=118 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=105 x=541 y=0 width=25 height=118 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=15
+char id=108 x=576 y=0 width=23 height=118 xoffset=0 yoffset=0 xadvance=23 page=0 chnl=15
+char id=110 x=609 y=0 width=50 height=118 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=111 x=669 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=114 x=723 y=0 width=35 height=118 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=15
+char id=116 x=768 y=0 width=30 height=118 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=117 x=808 y=0 width=50 height=118 xoffset=0 yoffset=0 xadvance=50 page=0 chnl=15
+char id=118 x=868 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=119 x=922 y=0 width=64 height=118 xoffset=0 yoffset=0 xadvance=64 page=0 chnl=15
+char id=120 x=996 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=32 x=1050 y=0 width=24 height=118 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=48 x=1084 y=0 width=49 height=118 xoffset=0 yoffset=0 xadvance=49 page=0 chnl=15
+char id=49 x=1143 y=0 width=43 height=118 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=50 x=1196 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=51 x=1250 y=0 width=45 height=118 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=52 x=1305 y=0 width=48 height=118 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=53 x=1363 y=0 width=47 height=118 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=54 x=1420 y=0 width=46 height=118 xoffset=0 yoffset=0 xadvance=46 page=0 chnl=15
+char id=55 x=1476 y=0 width=44 height=118 xoffset=0 yoffset=0 xadvance=44 page=0 chnl=15
+char id=56 x=1530 y=0 width=42 height=118 xoffset=0 yoffset=0 xadvance=42 page=0 chnl=15
+char id=57 x=1582 y=0 width=45 height=118 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15

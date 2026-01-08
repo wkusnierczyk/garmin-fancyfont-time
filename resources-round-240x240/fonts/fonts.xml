@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <fonts>
+        <font id="Date" filename="UbuntuCondensed-Regular-21.fnt" antialias="true" />
+        <font id="Acme" filename="Acme-Regular-48.fnt" antialias="true" />
+        <font id="Amaranth" filename="Amaranth-Regular-48.fnt" antialias="true" />
+        <font id="AmaticSC" filename="AmaticSC-Regular-63.fnt" antialias="true" />
+        <font id="Asimovian" filename="Asimovian-Regular-42.fnt" antialias="true" />
+        <font id="BerkshireSwash" filename="BerkshireSwash-Regular-48.fnt" antialias="true" />
+        <font id="CaveatBrush" filename="CaveatBrush-Regular-53.fnt" antialias="true" />
+        <font id="Changa" filename="Changa-Regular-48.fnt" antialias="true" />
+        <font id="CormorantUnicase" filename="CormorantUnicase-Bold-48.fnt" antialias="true" />
+        <font id="CroissantOne" filename="CroissantOne-Regular-42.fnt" antialias="true" />
+        <font id="Delius" filename="Delius-Regular-48.fnt" antialias="true" />
+        <font id="DynaPuff" filename="DynaPuff_SemiCondensed-Regular-48.fnt" antialias="true" />
+        <font id="EpundaSlab" filename="EpundaSlab-Medium-48.fnt" antialias="true" />
+        <font id="Fondamento" filename="Fondamento-Regular-48.fnt" antialias="true" />
+        <font id="GloriaHallelujah" filename="GloriaHallelujah-Regular-42.fnt" antialias="true" />
+        <font id="GrenzeGotisch" filename="GrenzeGotisch-Medium-53.fnt" antialias="true" />
+        <font id="Handlee" filename="Handlee-Regular-48.fnt" antialias="true" />
+        <font id="Italiana" filename="Italiana-Regular-53.fnt" antialias="true" />
+        <font id="Jura" filename="Jura-Regular-42.fnt" antialias="true" />
+        <font id="Limelight" filename="Limelight-Regular-42.fnt" antialias="true" />
+        <font id="LobsterTwo" filename="LobsterTwo-Regular-48.fnt" antialias="true" />
+        <font id="LoveYaLikeASister" filename="LoveYaLikeASister-Regular-48.fnt" antialias="true" />
+        <font id="Macondo" filename="Macondo-Regular-48.fnt" antialias="true" />
+        <font id="Megrim" filename="Megrim-Regular-42.fnt" antialias="true" />
+        <font id="Merienda" filename="Merienda-Regular-42.fnt" antialias="true" />
+        <font id="Philosopher" filename="Philosopher-Bold-42.fnt" antialias="true" />
+        <font id="PoetsenOne" filename="PoetsenOne-Regular-42.fnt" antialias="true" />
+        <font id="Quintessential" filename="Quintessential-Regular-53.fnt" antialias="true" />
+        <font id="RammettoOne" filename="RammettoOne-Regular-32.fnt" antialias="true" />
+        <font id="Sniglet" filename="Sniglet-Regular-42.fnt" antialias="true" />
+        <font id="SpecialElite" filename="SpecialElite-Regular-42.fnt" antialias="true" />
+        <font id="StackSansNotch" filename="StackSansNotch-Regular-42.fnt" antialias="true" />
+        <font id="SUSE" filename="SUSE-Regular-48.fnt" antialias="true" />
+        <font id="TenorSans" filename="TenorSans-Regular-42.fnt" antialias="true" />
+        <font id="TurretRoad" filename="TurretRoad-Regular-42.fnt" antialias="true" />
+        <font id="UnicaOne" filename="UnicaOne-Regular-48.fnt" antialias="true" />
+        <font id="UnifrakturMaguntia" filename="UnifrakturMaguntia-Regular-53.fnt" antialias="true" />
+        <font id="YuseiMagic" filename="YuseiMagic-Regular-42.fnt" antialias="true" />
+    </fonts>
+</resources>

@@ -26,12 +26,148 @@ class Fancyfonts {
             :font => Application.loadResource(Rez.Fonts.Acme)
         },
         {
+            :name => "Asimovian", 
+            :font => Application.loadResource(Rez.Fonts.Asimovian)
+        },
+        {
             :name => "Berkshire Swash", 
             :font => Application.loadResource(Rez.Fonts.BerkshireSwash)
         },
         {
             :name => "Gloria Hallelujah", 
             :font => Application.loadResource(Rez.Fonts.GloriaHallelujah)
+        },
+        {
+            :name => "Philosopher", 
+            :font => Application.loadResource(Rez.Fonts.Philosopher)
+        },
+        {
+            :name => "Epunda Slab", 
+            :font => Application.loadResource(Rez.Fonts.EpundaSlab)
+        },
+        {
+            :name => "Cormorant Unicase", 
+            :font => Application.loadResource(Rez.Fonts.CormorantUnicase)
+        },
+        {
+            :name => "Poetsen One", 
+            :font => Application.loadResource(Rez.Fonts.PoetsenOne)
+        },
+        {
+            :name => "Turret Road", 
+            :font => Application.loadResource(Rez.Fonts.TurretRoad)
+        },
+        {
+            :name => "Grenze Gotisch", 
+            :font => Application.loadResource(Rez.Fonts.GrenzeGotisch)
+        },
+        {
+            :name => "Megrim", 
+            :font => Application.loadResource(Rez.Fonts.Megrim)
+        },
+        {
+            :name => "Sniglet", 
+            :font => Application.loadResource(Rez.Fonts.Sniglet)
+        },
+        {
+            :name => "Yusei Magic", 
+            :font => Application.loadResource(Rez.Fonts.YuseiMagic)
+        },
+        {
+            :name => "Croissant One", 
+            :font => Application.loadResource(Rez.Fonts.CroissantOne)
+        },
+        {
+            :name => "Quintessential", 
+            :font => Application.loadResource(Rez.Fonts.Quintessential)
+        },
+        {
+            :name => "Dyna Puff", 
+            :font => Application.loadResource(Rez.Fonts.DynaPuff)
+        },
+        {
+            :name => "Love Ya Like A Sister", 
+            :font => Application.loadResource(Rez.Fonts.LoveYaLikeASister)
+        },
+        {
+            :name => "Limelight", 
+            :font => Application.loadResource(Rez.Fonts.Limelight)
+        },
+        {
+            :name => "Unifraktur Maguntia", 
+            :font => Application.loadResource(Rez.Fonts.UnifrakturMaguntia)
+        },
+        {
+            :name => "SUSE", 
+            :font => Application.loadResource(Rez.Fonts.SUSE)
+        },
+        {
+            :name => "Fondamento", 
+            :font => Application.loadResource(Rez.Fonts.Fondamento)
+        },
+        {
+            :name => "Amatic SC", 
+            :font => Application.loadResource(Rez.Fonts.AmaticSC)
+        },
+        {
+            :name => "Lobster Two", 
+            :font => Application.loadResource(Rez.Fonts.LobsterTwo)
+        },
+        {
+            :name => "Changa", 
+            :font => Application.loadResource(Rez.Fonts.Changa)
+        },
+        {
+            :name => "Unica One", 
+            :font => Application.loadResource(Rez.Fonts.UnicaOne)
+        },
+        {
+            :name => "Tenor Sans", 
+            :font => Application.loadResource(Rez.Fonts.TenorSans)
+        },
+        {
+            :name => "Stack Sans Notch", 
+            :font => Application.loadResource(Rez.Fonts.StackSansNotch)
+        },
+        {
+            :name => "Special Elite", 
+            :font => Application.loadResource(Rez.Fonts.SpecialElite)
+        },
+        {
+            :name => "Rammetto One", 
+            :font => Application.loadResource(Rez.Fonts.RammettoOne)
+        },
+        {
+            :name => "Merienda", 
+            :font => Application.loadResource(Rez.Fonts.Merienda)
+        },
+        {
+            :name => "Macondo", 
+            :font => Application.loadResource(Rez.Fonts.Macondo)
+        },
+        {
+            :name => "Italiana", 
+            :font => Application.loadResource(Rez.Fonts.Italiana)
+        },
+        {
+            :name => "Jura", 
+            :font => Application.loadResource(Rez.Fonts.Jura)
+        },
+        {
+            :name => "Handlee", 
+            :font => Application.loadResource(Rez.Fonts.Handlee)
+        },
+        {
+            :name => "Delius", 
+            :font => Application.loadResource(Rez.Fonts.Delius)
+        },
+        {
+            :name => "Caveat Brush", 
+            :font => Application.loadResource(Rez.Fonts.CaveatBrush)
+        },
+        {
+            :name => "Amaranth", 
+            :font => Application.loadResource(Rez.Fonts.Amaranth)
         }
     ];
     
@@ -98,7 +234,8 @@ class Fancyfonts {
     function draw(dc as Graphics.Dc) as Fancyfonts {
 
         // TODO: set based on properties
-        var fonts = _getFonts(2);
+        // var fonts = _getFonts(_time.sec % TIME_FONTS.size());
+        var fonts = _getFonts(TIME_FONTS.size() - 1);
         var hoursFont = fonts[:hours];
         var minutesFont = fonts[:minutes];
 
@@ -106,9 +243,10 @@ class Fancyfonts {
         var height = dc.getHeight();
         var centerY = (DEFAULT_VERTICAL_SHIFT_FACTOR * height / 2).toNumber();
 
-        var hoursDimensions = dc.getTextDimensions(DEFAULT_WIDEST_HOURS_TEXT, hoursFont);
-        var hoursWidth = hoursDimensions[0];
-        var hoursHeight = hoursDimensions[1];
+        // var hoursDimensions = dc.getTextDimensions(DEFAULT_WIDEST_HOURS_TEXT, hoursFont);
+        // var hoursWidth = hoursDimensions[0];
+        // var hoursHeight = hoursDimensions[1];
+        var hoursWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_HOURS_TEXT, hoursFont);
         var minutesWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_MINUTES_DIGITS, minutesFont);
         var gapWidth = dc.getTextWidthInPixels(DEFAULT_GAP_TEXT, minutesFont);
 

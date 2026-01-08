@@ -14,5 +14,9 @@
     {
         "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
         "fontId": "BerkshireSwash"
+    },
+    {
+        "fontCharset": "EFNOSTeghilnortuvwx 0123456789",
+        "fontId": "Philosopher"
     }
 ]
