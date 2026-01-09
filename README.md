@@ -96,7 +96,7 @@ The font development process was as follows:
 
 * The fonts were downloaded from [Google Fonts](https://fonts.google.com/) as True Type  (`.ttf`) fonts.
 * The fonts were converted to bitmaps as `.fnt` and `.png` pairs using the open source command-line [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp) converter.
-* The font sizes were established to match the Garmin Fenix 7X Solar watch 280x280 pixel screen resolution.
+* The font sizes were established to match the Garmin Fenix 8X Pro watch 454x454 pixel screen resolution.
 * The fonts were then scaled proportionally to match other screen sizes available on Garmin watches with round screens using the included [utility script](utils/generate_fonts.py).
 
 
