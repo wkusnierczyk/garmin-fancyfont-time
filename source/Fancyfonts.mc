@@ -82,10 +82,8 @@ class Fancyfonts {
         var hour = _timeToHour(_time);
         var minutes = _timeToMinutes(_time);
 
-        var minutesWidth = dc.getTextWidthInPixels(minutes, minutesFont);
-
         var minutesRight = (width + totalWidth) / 2;
-        var hoursRight = minutesRight - minutesWidth - gapWidth;
+        var hoursRight = minutesRight - maxMinutesWidth - gapWidth;
 
         var centerY = (showDate) ? (DEFAULT_VERTICAL_SHIFT_FACTOR * height / 2).toNumber() : height / 2;
 
