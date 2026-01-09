@@ -52,8 +52,8 @@ The selection of fonts may be updated at any
 **Note**  
 For the date, a fixed Ubuntu Condensed regular font is used irrespective of the time font selected by the user.
 
-| Watch face                                                      | Font                           | Size on 454x454 screen devices |
-| :--                                                             | :--                            | --:                            |
+| Watch face                                                       | Font                           | Size on 454x454 screen devices |
+| :--                                                              | :--                            | :--:                           |
 | ![](resources/graphics/archive/Acme_resized.png)                 | Acme regular                   | 90                             |
 | ![](resources/graphics/archive/Amaranth_resized.png)             | Amaranth regular               | 90                             |
 | ![](resources/graphics/archive/AmaticSC_resized.png)             | Amatic SC regular              | 120                            |
@@ -64,7 +64,7 @@ For the date, a fixed Ubuntu Condensed regular font is used irrespective of the 
 | ![](resources/graphics/archive/CormorantUnicase_resized.png)     | Cormorant Unicase bold         | 90                             |
 | ![](resources/graphics/archive/CroissantOne_resized.png)         | Croissant One regular          | 80                             |
 | ![](resources/graphics/archive/Delius_resized.png)               | Delius regular                 | 90                             |
-| ![](resources/graphics/archive/DynaPuff_resized.png)             | Dyna Puff SemiCondensed regular | 90                             |
+| ![](resources/graphics/archive/DynaPuff_resized.png)             | Dyna Puff SemiCondensed regular| 90                             |
 | ![](resources/graphics/archive/EpundaSlab_resized.png)           | Epunda Slab medium             | 90                             |
 | ![](resources/graphics/archive/Fondamento_resized.png)           | Fondamento regular             | 90                             |
 | ![](resources/graphics/archive/GloriaHallelujah_resized.png)     | Gloria Hallelujah regular      | 80                             |
