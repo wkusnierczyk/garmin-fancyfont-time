@@ -14,6 +14,14 @@ class FancyfontsDelegate extends WatchUi.Menu2InputDelegate {
 
         var id = item.getId();
 
+        if (id.equals(DATE_PROPERTY_ID) and item instanceof WatchUi.ToggleMenuItem) {
+            Properties.setValue(DATE_PROPERTY_ID, item.isEnabled());
+        }
+
+        if (id.equals(SECONDS_PROPERTY_ID) and item instanceof WatchUi.ToggleMenuItem) {
+            Properties.setValue(SECONDS_PROPERTY_ID, item.isEnabled());
+        }
+
         if (id.equals(FONT_PROPERTY_ID) && item instanceof WatchUi.MenuItem) {
             var currentFont = PropertyUtils.getPropertyElseDefault(FONT_PROPERTY_ID, FONT_PROPERTY_DEFAULT);
             var newFont = (currentFont + 1) % TIME_FONTS.size();

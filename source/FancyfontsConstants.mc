@@ -19,6 +19,14 @@ const DEBUG = false;
 // Settings
 const CUSTOMIZE_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle);
 
+const DATE_MENU_TITLE = Application.loadResource(Rez.Strings.DateMenuTitle);
+const DATE_PROPERTY_ID = "Date";
+const DATE_PROPERTY_DEFAULT = true;
+
+const SECONDS_MENU_TITLE = Application.loadResource(Rez.Strings.SecondsMenuTitle);
+const SECONDS_PROPERTY_ID = "Seconds";
+const SECONDS_PROPERTY_DEFAULT = false;
+
 const FONT_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle);
 const FONT_PROPERTY_ID = "Font";
 const FONT_PROPERTY_DEFAULT = 0;
