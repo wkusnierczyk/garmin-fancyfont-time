@@ -1,10 +1,10 @@
 # Garmin Fancyfonts Time
 
-A minimalist, elegant, nerdy, typography-focused Garmin Connect IQ watch face that displays the current time using a variety of beautiful fonts..
+A minimalist, elegant, nerdy, typography-focused Garmin Connect IQ watch face that displays the current time using a variety of beautiful fonts.
 
 ![Fancyfonts Time](resources/graphics/hero/FancyfontsHero-small.png)
 
-Available from [Garmin Connect IQ Developer portal](https://apps.garmin.com/apps/{blank:app-id}) or through the Connect IQ mobile app.
+Available from [Garmin Connect IQ Developer portal](https://apps.garmin.com/apps/7f6bfefd-013e-4dbc-ad72-a117ab11a2a3) or through the Connect IQ mobile app.
 
 > **Note**  
 > Fancyfonts Time is part of a [collection of unconventional Garmin watch faces](https://github.com/wkusnierczyk/garmin-watch-faces). It has been developed for fun, as a proof of concept, and as a learning experience.
