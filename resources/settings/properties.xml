@@ -2,6 +2,6 @@
 
     <property id="Font" type="number">0</property>
     <property id="Date" type="boolean">true</property>
-    <property id="Seconds" type="boolean">true</property>
+    <property id="Seconds" type="boolean">false</property>
 
 </properties>

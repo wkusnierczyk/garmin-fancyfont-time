@@ -14,8 +14,8 @@ class Fancyfonts {
     private static const DEFAULT_GAP_TEXT = " ";
     private static const DEFAULT_VERTICAL_SHIFT_FACTOR = 0.95;
     private static const DEFAULT_VERTICAL_GAP_FACTOR = 1.3;
-
-    private static const DEFAULT_SHOW_DATE = true;
+    private static const DEFAULT_SECONDS_WIDTH = 1;
+    private static const DEFAULT_SECONDS_LENGTH_FACTOR = 0.2;
 
     private static const DEFAULT_DATE_FONT = Application.loadResource(Rez.Fonts.Date) as Graphics.FontType;
     private static const DEFAULT_HOURS_FONT = Application.loadResource(Rez.Fonts.Acme) as Graphics.FontType;
@@ -28,13 +28,15 @@ class Fancyfonts {
     private static const DEFAULT_HOURS_COLOR = Graphics.COLOR_WHITE;
     private static const DEFAULT_MINUTES_COLOR = Graphics.COLOR_ORANGE;
     private static const DEFAULT_DATE_COLOR = Graphics.COLOR_DK_GRAY;
+    private static const DEFAULT_SECONDS_COLOR = Graphics.COLOR_DK_RED;
 
 
     private var _time = Gregorian.info(Time.now(), Time.FORMAT_SHORT) as Gregorian.Info;
     private var _hoursColor = DEFAULT_HOURS_COLOR as Graphics.ColorType;
     private var _minutesColor = DEFAULT_MINUTES_COLOR as Graphics.ColorType;
     private var _dateColor = DEFAULT_DATE_COLOR as Graphics.ColorType;
-    private var _showDate = DEFAULT_SHOW_DATE as Boolean;
+    private var _secondsColor = DEFAULT_SECONDS_COLOR as Graphics.ColorType;
+    // private var _showDate = DEFAULT_SHOW_DATE as Boolean;
 
 
     function initialize() {
@@ -47,13 +49,29 @@ class Fancyfonts {
 
     function draw(dc as Graphics.Dc) as Fancyfonts {
 
+        var showDate = PropertyUtils.getPropertyElseDefault(DATE_PROPERTY_ID, DATE_PROPERTY_DEFAULT);
+        var showSeconds = PropertyUtils.getPropertyElseDefault(SECONDS_PROPERTY_ID, SECONDS_PROPERTY_DEFAULT);
+
         var fonts = _getFonts();
         var hoursFont = fonts[:hours];
         var minutesFont = fonts[:minutes];
 
         var width = dc.getWidth();
         var height = dc.getHeight();
-        var centerY = (DEFAULT_VERTICAL_SHIFT_FACTOR * height / 2).toNumber();
+
+        if (showSeconds) {
+            var seconds = _time.sec;
+            var angle = 90 - (seconds / 60.0 * 360).toNumber();
+            var radius = ((width < height) ? width : height) / 2;
+            var secondsLength = (DEFAULT_SECONDS_LENGTH_FACTOR * radius).toNumber();
+            var secondsRadius = radius - secondsLength / 2;
+            var secondsWidth = DEFAULT_SECONDS_WIDTH;
+            dc.setColor(_secondsColor, Graphics.COLOR_TRANSPARENT);
+            dc.setPenWidth(secondsLength);
+            dc.drawArc(width / 2, height / 2, secondsRadius, Graphics.ARC_CLOCKWISE, angle + secondsWidth, angle - secondsWidth);
+            dc.setPenWidth(1);
+            // dc.drawArc(width / 2, height / 2, secondsRadius, Graphics.ARC_CLOCKWISE, 90, angle);
+        }
 
         var maxHoursWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_HOURS_TEXT, hoursFont);
         var maxMinutesWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_MINUTES_DIGITS, minutesFont);
@@ -69,13 +87,15 @@ class Fancyfonts {
         var minutesRight = (width + totalWidth) / 2;
         var hoursRight = minutesRight - minutesWidth - gapWidth;
 
+        var centerY = (showDate) ? (DEFAULT_VERTICAL_SHIFT_FACTOR * height / 2).toNumber() : height / 2;
+
         dc.setColor(_hoursColor, Graphics.COLOR_TRANSPARENT);
         dc.drawText(hoursRight, centerY, hoursFont, hour, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
         
         dc.setColor(_minutesColor, Graphics.COLOR_TRANSPARENT);
         dc.drawText(minutesRight, centerY, minutesFont, minutes, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
 
-        if (_showDate) { // TODO get from properties
+        if (showDate) {
             var dateFont = fonts[:date];
             var dateY = (DEFAULT_VERTICAL_GAP_FACTOR * centerY).toNumber();
             var date = _timeToDate(_time);
