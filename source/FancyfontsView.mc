@@ -27,8 +27,6 @@ class FancyfontsView extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
         dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
 
-        // var time = System.getClockTime();
-
         var time = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
 
         if (DEBUG) {

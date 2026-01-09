@@ -3,7 +3,14 @@
 
     <string id="AppName">FancyfontsTime</string>
 
+    <jsonData id="HourNames" filename="hours.json" />
+    <jsonData id="DayNames" filename="days.json" />
+    <jsonData id="MonthNames" filename="months.json" />
+    
     <string id="FancyfontsMenuTitle">Fancyfonts Time</string>
+
+    <string id="DateMenuTitle">Show date</string>
+    <string id="SecondsMenuTitle">Show seconds</string>
 
     <string id="FontMenuTitle">Font</string>
 
@@ -44,9 +51,5 @@
     <string id="UnicaOne">UnicaOne</string>
     <string id="UnifrakturMaguntia">UnifrakturMaguntia</string>
     <string id="YuseiMagic">YuseiMagic</string>
-
-    <jsonData id="FontNames">[
-        "Oxygen"
-    ]</jsonData>
 
 </resources>

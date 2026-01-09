@@ -1,5 +1,13 @@
 <settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
 
+    <setting propertyKey="@Properties.Date" title="@Strings.DateMenuTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.Seconds" title="@Strings.SecondsMenuTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
     <setting propertyKey="@Properties.Font" title="@Strings.FontMenuTitle">
         <settingConfig type="list">
             <listEntry value="0">@Strings.Acme</listEntry>
