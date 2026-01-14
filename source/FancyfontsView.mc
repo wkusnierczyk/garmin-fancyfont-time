@@ -19,8 +19,10 @@ class FancyfontsView extends WatchUi.WatchFace {
         setLayout(Rez.Layouts.WatchFace(dc));
     }
 
+
     function onShow() {
     }
+
 
     function onUpdate(dc) {
 

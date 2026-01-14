@@ -9,8 +9,6 @@ import Toybox.Lang;
 
 class Fancyfonts {
 
-    private static const DEFAULT_WIDEST_HOURS_TEXT = "Twelve";
-    private static const DEFAULT_WIDEST_MINUTES_DIGITS = "55";
     private static const DEFAULT_GAP_TEXT = " ";
     private static const DEFAULT_VERTICAL_SHIFT_FACTOR = 0.95;
     private static const DEFAULT_VERTICAL_GAP_FACTOR = 1.3;
@@ -31,16 +29,20 @@ class Fancyfonts {
     private static const DEFAULT_SECONDS_COLOR = Graphics.COLOR_DK_RED;
 
 
-    private var _time = Gregorian.info(Time.now(), Time.FORMAT_SHORT) as Gregorian.Info;
-    private var _hoursColor = DEFAULT_HOURS_COLOR as Graphics.ColorType;
-    private var _minutesColor = DEFAULT_MINUTES_COLOR as Graphics.ColorType;
-    private var _dateColor = DEFAULT_DATE_COLOR as Graphics.ColorType;
-    private var _secondsColor = DEFAULT_SECONDS_COLOR as Graphics.ColorType;
+    private var 
+        _time = Gregorian.info(Time.now(), Time.FORMAT_SHORT) as Gregorian.Info;
+
+    private var
+        _hoursColor = DEFAULT_HOURS_COLOR as Graphics.ColorType,
+        _minutesColor = DEFAULT_MINUTES_COLOR as Graphics.ColorType,
+        _dateColor = DEFAULT_DATE_COLOR as Graphics.ColorType,
+        _secondsColor = DEFAULT_SECONDS_COLOR as Graphics.ColorType;
     // private var _showDate = DEFAULT_SHOW_DATE as Boolean;
 
 
     function initialize() {
     }
+
 
     function forTime(time as Gregorian.Info) as Fancyfonts {
         _time = time;
@@ -69,29 +71,45 @@ class Fancyfonts {
             dc.setColor(_secondsColor, Graphics.COLOR_TRANSPARENT);
             dc.setPenWidth(secondsLength);
             dc.drawArc(width / 2, height / 2, secondsRadius, Graphics.ARC_CLOCKWISE, angle + secondsWidth, angle - secondsWidth);
-            dc.setPenWidth(1);
-            // dc.drawArc(width / 2, height / 2, secondsRadius, Graphics.ARC_CLOCKWISE, 90, angle);
+            // dc.setPenWidth(1);
         }
 
-        var maxHoursWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_HOURS_TEXT, hoursFont);
-        var maxMinutesWidth = dc.getTextWidthInPixels(DEFAULT_WIDEST_MINUTES_DIGITS, minutesFont);
-        var gapWidth = dc.getTextWidthInPixels(DEFAULT_GAP_TEXT, minutesFont);
+        var maxHoursWidth = 0;
+        for (var i = 0; i < HOUR_WORDS.size(); ++i) {
+            var word = HOUR_WORDS[i];
+            var hourWidth = dc.getTextWidthInPixels(word, hoursFont);
+            if (hourWidth > maxHoursWidth) {
+                maxHoursWidth = hourWidth;
+            }
+        }
+
+        var maxMinutesWidth = 0;
+        for (var i = 0; i < 10; ++i) {
+            var digit = i.format("%d");
+            var minutesWidth = dc.getTextWidthInPixels(digit, minutesFont);
+            if (minutesWidth > maxMinutesWidth) {
+                maxMinutesWidth = minutesWidth;
+            }
+        }
+        maxMinutesWidth *= 2;
+        
+        var gapWidth = dc.getTextWidthInPixels(DEFAULT_GAP_TEXT, minutesFont) / 2;
 
         var totalWidth = maxHoursWidth + maxMinutesWidth + gapWidth;
-
-        var hour = _timeToHour(_time);
-        var minutes = _timeToMinutes(_time);
-
-        var minutesRight = (width + totalWidth) / 2;
-        var hoursRight = minutesRight - maxMinutesWidth - gapWidth;
+        var hourRight = (width - totalWidth) / 2 + maxHoursWidth;
+        var minutesLeft = hourRight + gapWidth;
 
         var centerY = (showDate) ? (DEFAULT_VERTICAL_SHIFT_FACTOR * height / 2).toNumber() : height / 2;
 
+        var hour = _timeToHour(_time);
+        var minutes = _timeToMinutes(_time);
+        var minutesRight = minutesLeft + dc.getTextWidthInPixels(minutes, minutesFont);
+
         dc.setColor(_hoursColor, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(hoursRight, centerY, hoursFont, hour, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
+        dc.drawText(hourRight, centerY, hoursFont, hour, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
         
         dc.setColor(_minutesColor, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(minutesRight, centerY, minutesFont, minutes, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
+        dc.drawText(minutesLeft, centerY, minutesFont, minutes, Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER);
 
         if (showDate) {
             var dateFont = fonts[:date];
