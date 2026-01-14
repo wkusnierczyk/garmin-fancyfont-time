@@ -9,8 +9,6 @@ import Toybox.Lang;
 
 class Fancyfonts {
 
-    private static const DEFAULT_WIDEST_HOURS_TEXT = "Twelve";
-    private static const DEFAULT_WIDEST_MINUTES_DIGITS = "55";
     private static const DEFAULT_GAP_TEXT = " ";
     private static const DEFAULT_VERTICAL_SHIFT_FACTOR = 0.95;
     private static const DEFAULT_VERTICAL_GAP_FACTOR = 1.3;
@@ -95,7 +93,7 @@ class Fancyfonts {
         }
         maxMinutesWidth *= 2;
         
-        var gapWidth = dc.getTextWidthInPixels(DEFAULT_GAP_TEXT, minutesFont);
+        var gapWidth = dc.getTextWidthInPixels(DEFAULT_GAP_TEXT, minutesFont) / 2;
 
         var totalWidth = maxHoursWidth + maxMinutesWidth + gapWidth;
         var hourRight = (width - totalWidth) / 2 + maxHoursWidth;
