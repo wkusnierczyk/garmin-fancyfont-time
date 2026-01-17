@@ -34,7 +34,7 @@ class FancyfontsView extends WatchUi.WatchFace {
         // Debug: set time to the widest values (may depend on the actual font)
         if (DEBUG) {
             time.hour = 12;
-            time.min = 55;
+            time.min = 00;
         }
 
         _fancyfonts
