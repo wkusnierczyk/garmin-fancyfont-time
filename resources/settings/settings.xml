@@ -50,4 +50,13 @@
         </settingConfig>
     </setting>
 
+    <setting propertyKey="@Properties.Alignment" title="@Strings.AlignmentMenuTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.GapAligned</listEntry>
+            <listEntry value="1">@Strings.LeftAligned</listEntry>
+            <listEntry value="2">@Strings.RightAligned</listEntry>
+            <listEntry value="3">@Strings.CenterAligned</listEntry>
+        </settingConfig>
+    </setting>
+
 </settings>

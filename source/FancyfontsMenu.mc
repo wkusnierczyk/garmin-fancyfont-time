@@ -37,6 +37,15 @@ class FancyfontsMenu extends WatchUi.Menu2 {
             null
         ));
 
+        var alignmentSelection = PropertyUtils.getPropertyElseDefault(ALIGNMENT_PROPERTY_ID, ALIGNMENT_PROPERTY_DEFAULT);
+        var alignmentName = ALIGNMENTS[alignmentSelection];
+        addItem(new WatchUi.MenuItem(
+            ALIGNMENT_MENU_TITLE, 
+            alignmentName, 
+            ALIGNMENT_PROPERTY_ID, 
+            null
+        ));
+
     }
 
 }

@@ -6,13 +6,14 @@
     <jsonData id="HourNames" filename="hours.json" />
     <jsonData id="DayNames" filename="days.json" />
     <jsonData id="MonthNames" filename="months.json" />
+    <jsonData id="AlignmentNames" filename="alignments.json" />
     
     <string id="FancyfontsMenuTitle">Fancyfonts Time</string>
 
     <string id="DateMenuTitle">Show date</string>
     <string id="SecondsMenuTitle">Show seconds</string>
-
     <string id="FontMenuTitle">Font</string>
+    <string id="AlignmentMenuTitle">Alignment</string>
 
     <string id="Acme">Acme</string>
     <string id="Amaranth">Amaranth</string>
@@ -51,5 +52,10 @@
     <string id="UnicaOne">UnicaOne</string>
     <string id="UnifrakturMaguntia">UnifrakturMaguntia</string>
     <string id="YuseiMagic">YuseiMagic</string>
+
+    <string id="GapAligned">Gap-aligned</string>
+    <string id="LeftAligned">Left-aligned</string>
+    <string id="RightAligned">Right-aligned</string>
+    <string id="CenterAligned">Centered</string>
 
 </resources>

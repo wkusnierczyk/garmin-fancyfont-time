@@ -29,6 +29,13 @@ class FancyfontsDelegate extends WatchUi.Menu2InputDelegate {
             item.setSubLabel(TIME_FONTS[newFont][:name]);
         }
 
+        if (id.equals(ALIGNMENT_PROPERTY_ID) && item instanceof WatchUi.MenuItem) {
+            var currentAlignment = PropertyUtils.getPropertyElseDefault(ALIGNMENT_PROPERTY_ID, ALIGNMENT_PROPERTY_DEFAULT);
+            var newAlignment = (currentAlignment + 1) % ALIGNMENTS.size();
+            Properties.setValue(ALIGNMENT_PROPERTY_ID, newAlignment);
+            item.setSubLabel(ALIGNMENTS[newAlignment]);
+        }
+
     }
 
     function onBack() {
