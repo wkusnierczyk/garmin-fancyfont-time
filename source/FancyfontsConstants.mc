@@ -5,31 +5,41 @@ import Toybox.Lang;
 
 
 (:debug)
-const RELEASE = false;
-(:debug)
-const DEBUG = true;
+const
+    RELEASE = false,
+    DEBUG = true;
 
 (:release)
-const RELEASE = true;
-(:release)
-const DEBUG = false;
+const
+    RELEASE = true,
+    DEBUG = false;
 
 
 
 // Settings
-const CUSTOMIZE_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle);
+const 
+    CUSTOMIZE_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle);
 
-const DATE_MENU_TITLE = Application.loadResource(Rez.Strings.DateMenuTitle);
-const DATE_PROPERTY_ID = "Date";
-const DATE_PROPERTY_DEFAULT = true;
+const
+    DATE_MENU_TITLE = Application.loadResource(Rez.Strings.DateMenuTitle),
+    DATE_PROPERTY_ID = "Date",
+    DATE_PROPERTY_DEFAULT = true;
 
-const SECONDS_MENU_TITLE = Application.loadResource(Rez.Strings.SecondsMenuTitle);
-const SECONDS_PROPERTY_ID = "Seconds";
-const SECONDS_PROPERTY_DEFAULT = false;
+const
+    SECONDS_MENU_TITLE = Application.loadResource(Rez.Strings.SecondsMenuTitle),
+    SECONDS_PROPERTY_ID = "Seconds",
+    SECONDS_PROPERTY_DEFAULT = false;
 
-const FONT_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle);
-const FONT_PROPERTY_ID = "Font";
-const FONT_PROPERTY_DEFAULT = 0;
+const
+    FONT_MENU_TITLE = Application.loadResource(Rez.Strings.FontMenuTitle),
+    FONT_PROPERTY_ID = "Font",
+    FONT_PROPERTY_DEFAULT = 0;
+
+const
+    ALIGNMENT_MENU_TITLE = Application.loadResource(Rez.Strings.AlignmentMenuTitle),
+    ALIGNMENT_PROPERTY_ID = "Alignment",
+    ALIGNMENT_PROPERTY_DEFAULT = 0;
+
 
 const TIME_FONTS = [
     {
@@ -182,9 +192,6 @@ const TIME_FONTS = [
     }
 ];
 
+const
+    ALIGNMENTS = Application.loadResource(Rez.JsonData.AlignmentNames) as Array<String>;
 
-// const MULTI_OPTION_LABEL = Application.loadResource(Rez.Strings.MultiOptionMenuTitle);
-// const MULTI_OPTION_PROPERTY = "MultiOption";
-// const MULTI_OPTION_DEFAULT = 1;
-
-// const MULTI_OPTION_NAMES = Application.loadResource(Rez.JsonData.MultiOptionValues) as Array<String>;

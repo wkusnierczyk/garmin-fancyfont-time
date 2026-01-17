@@ -31,9 +31,10 @@ class FancyfontsView extends WatchUi.WatchFace {
 
         var time = Gregorian.info(Time.now(), Time.FORMAT_SHORT);
 
+        // Debug: set time to the widest values (may depend on the actual font)
         if (DEBUG) {
             time.hour = 12;
-            time.min = 55;
+            time.min = 00;
         }
 
         _fancyfonts

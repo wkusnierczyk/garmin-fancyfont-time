@@ -38,6 +38,16 @@ The Fancyfonts Time watch face supports the following features:
 |![](resources/graphics/WithDate.png)|**Date**<br/> A customisation setting enables the user to toggle the date display on and off.|
 |![](resources/graphics/WithSeconds.png)|**Seconds**<br/> A customisation setting enables the user to toggle the seconds indicator on and off.|
 |![](resources/graphics/archive/DynaPuff_resized.png)|**Fonts**<br/>  The user can choose from a wide variety of fonts included in the watch face. See below for more details.|
+|![](resources/graphics/Centered.png)|**Alignment**<br/>  The user can choose from four alignment modes for the time and date. See below for more details.|
+
+### Alignment
+
+|Screenshot|Description|
+|-|:-|
+|![](resources/graphics/GapAligned55.png)|**Gap-aligned**<br/> In the gap-aligned mode, the gap between the hour and minutes is kept at a fixed position. The position of the gap is calculated such that the time is horizontally centered when the hour and minutes are _the widest_ for the given font. The hour word is then right-aligned to the gap, and the minutes digits are left-aligned to the gap. The distance from the hour word to the left screen edge will vary, as will the distance from the minutes digits to the right screen edge. These distances will not always be equal.<br/>In this mode, date is _right-aligned_ to the _current_ right edge of the minutes.|
+|![](resources/graphics/LeftAligned.png)|**Left-aligned**<br/> In the left-aligned mode, the left edge of the time and date is kept at a fixed position twowards the left edge of the screen.|
+|![](resources/graphics/RightAligned.png)|**Right-aligned**<br/> In the right-aligned mode, the right edge of the time and date is kept at a fixed position twowards the right edge of the screen.|
+|![](resources/graphics/Centered.png)|**Centered**<br/> In the centered mode, the time and date are centered horizontally.|
 
 ## Fonts
 
